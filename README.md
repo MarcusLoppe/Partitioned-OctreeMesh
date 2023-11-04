@@ -12,7 +12,9 @@ The OctreeMesh file results in 268 kb:<br>
     - Encoded by using OpenCtm techniques <br>
 - 64 kb Octree structure (1487 nodes, 112713 triangle connections)<br>
     - 4.54 bit per triangle connection.<br>
-  
+	
+![OctoMesh](Demo/Samples/OctoMesh.PNG)
+
 <h3>Usage areas:</h3>
 The most suitable usage is for large 3D static mesh, for example a city or large area.<br>
 When raycasting it uses octree structure to check which node bounds the ray intersects with and checks the containing triangles for intersection. <br>
