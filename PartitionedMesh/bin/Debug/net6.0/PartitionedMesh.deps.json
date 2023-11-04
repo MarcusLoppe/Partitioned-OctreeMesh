@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PartitionedMesh/1.0.0": {
+        "dependencies": {
+          "Lzma": "1.0.0"
+        },
+        "runtime": {
+          "PartitionedMesh.dll": {}
+        }
+      },
+      "Lzma/1.0.0": {
+        "runtime": {
+          "Lzma#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PartitionedMesh/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lzma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,6 @@
+C:\Users\Username\source\repos\PartitionedMesh\LZMA\bin\Debug\Lzma#.dll
+C:\Users\Username\source\repos\PartitionedMesh\LZMA\bin\Debug\Lzma#.pdb
+C:\Users\Username\source\repos\PartitionedMesh\LZMA\obj\Debug\Lzma.csproj.AssemblyReference.cache
+C:\Users\Username\source\repos\PartitionedMesh\LZMA\obj\Debug\Lzma.csproj.CoreCompileInputs.cache
+C:\Users\Username\source\repos\PartitionedMesh\LZMA\obj\Debug\Lzma#.dll
+C:\Users\Username\source\repos\PartitionedMesh\LZMA\obj\Debug\Lzma#.pdb

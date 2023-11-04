@@ -1,0 +1,15 @@
+C:\Users\Username\source\repos\PartitionedMesh\PartitionedMesh\obj\Debug\net6.0\PartitionedMesh.csproj.AssemblyReference.cache
+C:\Users\Username\source\repos\PartitionedMesh\PartitionedMesh\obj\Debug\net6.0\PartitionedMesh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Username\source\repos\PartitionedMesh\PartitionedMesh\obj\Debug\net6.0\PartitionedMesh.AssemblyInfoInputs.cache
+C:\Users\Username\source\repos\PartitionedMesh\PartitionedMesh\obj\Debug\net6.0\PartitionedMesh.AssemblyInfo.cs
+C:\Users\Username\source\repos\PartitionedMesh\PartitionedMesh\obj\Debug\net6.0\PartitionedMesh.csproj.CoreCompileInputs.cache
+C:\Users\Username\source\repos\PartitionedMesh\PartitionedMesh\bin\Debug\net6.0\PartitionedMesh.deps.json
+C:\Users\Username\source\repos\PartitionedMesh\PartitionedMesh\bin\Debug\net6.0\PartitionedMesh.dll
+C:\Users\Username\source\repos\PartitionedMesh\PartitionedMesh\bin\Debug\net6.0\PartitionedMesh.pdb
+C:\Users\Username\source\repos\PartitionedMesh\PartitionedMesh\bin\Debug\net6.0\Lzma#.dll
+C:\Users\Username\source\repos\PartitionedMesh\PartitionedMesh\bin\Debug\net6.0\Lzma#.pdb
+C:\Users\Username\source\repos\PartitionedMesh\PartitionedMesh\obj\Debug\net6.0\PartitionedMesh.csproj.CopyComplete
+C:\Users\Username\source\repos\PartitionedMesh\PartitionedMesh\obj\Debug\net6.0\PartitionedMesh.dll
+C:\Users\Username\source\repos\PartitionedMesh\PartitionedMesh\obj\Debug\net6.0\refint\PartitionedMesh.dll
+C:\Users\Username\source\repos\PartitionedMesh\PartitionedMesh\obj\Debug\net6.0\PartitionedMesh.pdb
+C:\Users\Username\source\repos\PartitionedMesh\PartitionedMesh\obj\Debug\net6.0\ref\PartitionedMesh.dll

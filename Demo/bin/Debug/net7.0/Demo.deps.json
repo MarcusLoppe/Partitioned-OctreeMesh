@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Demo/1.0.0": {
+        "dependencies": {
+          "PartitionedMesh": "1.0.0"
+        },
+        "runtime": {
+          "Demo.dll": {}
+        }
+      },
+      "Lzma/1.0.0": {
+        "runtime": {
+          "Lzma#.dll": {}
+        }
+      },
+      "PartitionedMesh/1.0.0": {
+        "dependencies": {
+          "Lzma": "1.0.0"
+        },
+        "runtime": {
+          "PartitionedMesh.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lzma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PartitionedMesh/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

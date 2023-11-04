@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "k2kmRHqo9c7/Mo7YS43xSpq+cUlKQhKkjtk/GhAnHD/lv+t1eDfZBUcCXwCsR9UBkMCoDSJ0Gu8NDXYVRT3jzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Username\\source\\repos\\PartitionedMesh\\PartitionedMesh\\PartitionedMesh.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Username\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Username\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Username\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

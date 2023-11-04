@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Lzma/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Lzma.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lzma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lzma/1.0.0": {
+      "type": "project",
+      "path": "../LZMA/Lzma.csproj",
+      "msbuildProject": "../LZMA/Lzma.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Lzma >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Username\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Username\\source\\repos\\PartitionedMesh\\PartitionedMesh\\PartitionedMesh.csproj",
+      "projectName": "PartitionedMesh",
+      "projectPath": "C:\\Users\\Username\\source\\repos\\PartitionedMesh\\PartitionedMesh\\PartitionedMesh.csproj",
+      "packagesPath": "C:\\Users\\Username\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Username\\source\\repos\\PartitionedMesh\\PartitionedMesh\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Username\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Username\\source\\repos\\PartitionedMesh\\LZMA\\Lzma.csproj": {
+              "projectPath": "C:\\Users\\Username\\source\\repos\\PartitionedMesh\\LZMA\\Lzma.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.13, 6.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.13, 6.0.13]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.13, 6.0.13]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
